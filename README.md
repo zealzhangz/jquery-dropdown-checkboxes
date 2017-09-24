@@ -5,7 +5,7 @@
 # DISCLAIMER
 An easy-to-use dropdown checkbox jQuery plugin based on Bootstrap dropdown.You can simply customize the style of the control.
 The control include a callback that you can get all checkboxes jQuery object when triggering change event.Your business logic should be
-writen in the call back function.
+written in the call back function.
 
 ## Install - Bower
 
