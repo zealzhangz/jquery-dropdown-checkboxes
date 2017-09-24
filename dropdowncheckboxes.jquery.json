@@ -1,0 +1,39 @@
+{
+  "name": "dropdowncheckboxes",
+  "title": "jQuery dropdowncheckboxes",
+  "description": "An easy-to-use dropdown checkbox jQuery plugin",
+  "keywords": [
+    "jquery",
+    "dropdowncheckboxes",
+    "plugins",
+    "dropdown",
+    "checkbox"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "zealzhangz",
+    "email": "zealzhangz@gmail.com",
+    "url": "https://github.com/zealzhangz"
+  },
+  "maintainers": [
+    {
+      "name": "zealzhangz",
+      "email": "zealzhangz@gmail.com",
+      "url": "https://github.com/zealzhangz"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://zealzhangz.mit-license.org/"
+    }
+  ],
+  "bugs": "https://github.com/zealzhangz/jquery-dropdowncheckboxes/issues",
+  "homepage": "https://github.com/zealzhangz/jquery-dropdowncheckboxes",
+  "docs": "https://github.com/zealzhangz/jquery-dropdowncheckboxes#readme",
+  "download": "https://github.com/zealzhangz/jquery-dropdowncheckboxes/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4",
+    "bootstrap": ">=3.1.0"
+  }
+}

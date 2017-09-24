@@ -1,0 +1,10 @@
+/*
+ *  jQuery dropdowncheckboxes - v0.0.1
+ *  An easy-to-use dropdown checkbox jQuery plugin
+ *  https://github.com/zealzhangz/jquery-dropdowncheckboxes
+ *
+ *  Made by zealzhangz/zealzhangz@gmail.com
+ *  Under MIT License
+ */
+
+.dropdown-checkboxes{position:absolute;right:10px;margin-top:7px}.dropdown-checkboxes ul{padding:10px 15px;font-size:13px;position:relative;top:25px;left:35px;width:400px;max-height:280px;overflow:auto;z-index:1000;float:right;min-width:160px;margin:2px 0 0;list-style:none;text-align:left;background-color:#fff;border:1px solid rgba(0,0,0,.15);background-clip:padding-box}.dropdown-checkboxes ul li{float:left;width:50%;word-wrap:break-word;word-break:break-all}.dropdown-checkboxes a{color:#555;cursor:pointer}.dropdown-checkboxes a:hover{color:#00B38B}.dropdown-checkboxes li>*{display:block;color:#333;padding:3px 15px;line-height:1.42857143;font-weight:400;white-space:nowrap;cursor:pointer}
