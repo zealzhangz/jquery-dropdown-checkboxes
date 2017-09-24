@@ -1,7 +1,10 @@
 {
   "name": "jquery-dropdown-checkboxes",
   "description": "An easy-to-use dropdown checkbox jQuery plugin",
-  "main": "dist/jquery.dropdowncheckboxes.js",
+  "main": [
+    "dist/jquery.dropdowncheckboxes.js",
+    "dist/jquery.dropdowncheckboxes.css"
+  ],
   "dependencies": {
     "jquery": ">=1.4",
     "bootstrap": ">=3.1.0"
@@ -12,7 +15,9 @@
   "license": "MIT",
   "version": "0.0.1",
   "keywords": [
-    "sumtabletotal"
+    "jquery",
+    "dropdown",
+    "checkbox"
   ],
   "homepage": "https://github.com/zealzhangz/jquery-dropdown-checkboxes",
   "private": true,

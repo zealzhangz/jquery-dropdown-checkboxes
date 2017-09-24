@@ -1,4 +1,4 @@
-# jQuery sumtabletotal Plugin by zealzhangz (https://github.com/zealzhangz/jquery-dropdown-checkboxes)
+# jQuery dropdown checkboxes Plugin by zealzhangz (https://github.com/zealzhangz/jquery-dropdown-checkboxes)
 
 ![jquery-dropdown-checkboxes](https://github.com/zealzhangz/jquery-dropdown-checkboxes/blob/master/readme.png)
 
@@ -19,13 +19,13 @@ Install jquery-dropdown-checkboxes and dependencies
 bower install jquery-dropdown-checkboxes --save
 ```
 
-Include jquery and sumtabletotal in your page
+Include jquery,bootstrap and jquery-dropdown-checkboxes in your page
 ```html
-<link rel="stylesheet" href="bower_components\bootstrap\bootstrap.min.css"/>
-<link rel="stylesheet" href="bower_components\jquery-dropdown-checkboxes\dist\jquery.dropdowncheckboxes.min.css"/>
-<script src="bower_components\jquery\dist\jquery.min.js"></script>
-<script src="bower_components\bootstrap\dist\bootstrap.min.js"></script>
-<script src="bower_components\jquery-dropdown-checkboxes\dist\jquery.dropdowncheckboxes.min.js"></script>
+<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="bower_components/jquery-dropdown-checkboxes/dist/jquery.dropdowncheckboxes.min.css"/>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="bower_components/jquery-dropdown-checkboxes/dist/jquery.dropdowncheckboxes.min.js"></script>
 ```
 
 ## Using the plugin
