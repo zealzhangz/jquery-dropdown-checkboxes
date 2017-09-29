@@ -26,6 +26,19 @@
 
 }
 
+.dropdown-checkboxes > ul > li.li-button {
+    width: 100%;
+    display: inline-flex;
+}
+
+.dropdown-checkboxes > ul > li > button.btn-clear {
+    margin-left: 33%;
+}
+
+.dropdown-checkboxes > ul > li > button.btn-save {
+    margin-left: 5px;
+}
+
 .dropdown-checkboxes ul li {
     float: left;
     width: 50%;

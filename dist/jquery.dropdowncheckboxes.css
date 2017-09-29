@@ -1,5 +1,5 @@
 /*
- *  jQuery dropdowncheckboxes - v0.0.1
+ *  jQuery dropdowncheckboxes - v0.0.2
  *  An easy-to-use dropdown checkbox jQuery plugin
  *  https://github.com/zealzhangz/jquery-dropdowncheckboxes
  *
@@ -32,6 +32,19 @@
     border: 1px solid rgba(0, 0, 0, 0.15);
     background-clip: padding-box;
 
+}
+
+.dropdown-checkboxes > ul > li.li-button {
+    width: 100%;
+    display: inline-flex;
+}
+
+.dropdown-checkboxes > ul > li > button.btn-clear {
+    margin-left: 33%;
+}
+
+.dropdown-checkboxes > ul > li > button.btn-save {
+    margin-left: 5px;
 }
 
 .dropdown-checkboxes ul li {
