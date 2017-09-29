@@ -6,7 +6,7 @@
 An easy-to-use dropdown checkbox jQuery plugin based on Bootstrap dropdown.You can simply customize the style of the control.This control
 has two modes "auto" and "button",in "auto" mode every checkboxes' status changed can trigger callback.In another mode "button" callback
 can be triggered when you click save button,the two models can not coexist.The default mode is "auto" mode.Both modes you can get all checkboxes
-jQuery object when it was triggered from callback.Please refer to the specific sample。
+jQuery object when it was triggered from callback.Please refer to the specific sample.
 
 ## Install - Bower
 
